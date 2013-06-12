@@ -66,6 +66,7 @@
 		42CB5E6C176786FE00544A2F /* TATableAnimationsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TATableAnimationsViewController.m; sourceTree = "<group>"; };
 		42CB5E6E176796DA00544A2F /* TAAlertsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAAlertsViewController.h; sourceTree = "<group>"; };
 		42CB5E6F176796DA00544A2F /* TAAlertsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAAlertsViewController.m; sourceTree = "<group>"; };
+		42CB5E7117687B7700544A2F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		42F7ACBA17676D5900665889 /* TAKeyboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TAKeyboardViewController.h; sourceTree = "<group>"; };
 		42F7ACBB17676D5900665889 /* TAKeyboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TAKeyboardViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -97,6 +98,7 @@
 		42B1BE96176744D6001E4990 = {
 			isa = PBXGroup;
 			children = (
+				42CB5E7117687B7700544A2F /* README.md */,
 				42B1BEA8176744D6001E4990 /* testiOS7 */,
 				42B1BECA176744D6001E4990 /* testiOS7Tests */,
 				42B1BEA1176744D6001E4990 /* Frameworks */,
