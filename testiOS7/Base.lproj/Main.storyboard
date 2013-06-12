@@ -883,7 +883,7 @@ line etached.</string>
             </objects>
             <point key="canvasLocation" x="1071" y="46"/>
         </scene>
-        <!--Table View Controller - Presentations-->
+        <!--Table View Controller - Transitions-->
         <scene sceneID="YFP-RY-4Px">
             <objects>
                 <tableViewController id="BOR-zI-gpX" sceneMemberID="viewController">
@@ -1029,7 +1029,7 @@ line etached.</string>
                         </connections>
                     </tableView>
                     <extendedEdge key="edgesForExtendedLayout"/>
-                    <navigationItem key="navigationItem" title="Presentations" id="153-lW-fcl"/>
+                    <navigationItem key="navigationItem" title="Transitions" id="153-lW-fcl"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yn6-KN-fGt" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -1109,12 +1109,12 @@ line etached.</string>
             </objects>
             <point key="canvasLocation" x="1071" y="-648"/>
         </scene>
-        <!--Navigation Controller - Controllers-->
+        <!--Navigation Controller - Transitions-->
         <scene sceneID="fEU-VM-J1C">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="toD-RX-MXo" sceneMemberID="viewController">
                     <extendedEdge key="edgesForExtendedLayout"/>
-                    <tabBarItem key="tabBarItem" title="Controllers" image="first" id="ipT-xl-mOl"/>
+                    <tabBarItem key="tabBarItem" title="Transitions" image="first" id="ipT-xl-mOl"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="UCh-Hr-RdP">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
