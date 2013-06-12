@@ -15,4 +15,10 @@ App supports these:
 - all kombination of alerts an action sheets
 - date picker
 
-![ScreenShot](http://data.peterstajger.name/IMG_0049.png)
+![ScreenShot 1](http://data.peterstajger.name/IMG_0049.png)
+
+![ScreenShot 2](http://data.peterstajger.name/IMG_0050.png)
+
+![ScreenShot 3](http://data.peterstajger.name/IMG_0051.png)
+
+![ScreenShot 4](http://data.peterstajger.name/IMG_0052.png)
