@@ -14,3 +14,5 @@ App supports these:
 - table view row manipulation animations (reorder, delete, add new)
 - all kombination of alerts an action sheets
 - date picker
+
+![ScreenShot](http://http://data.peterstajger.name/IMG_0049.png)
